@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0;box-sizing:border-box}.App{text-align:center;min-height:100vh}.card{height:17vh;min-width:80px;width:9vh;background:grey;border-radius:5px;background-size:cover;background-position:50%;box-shadow:0 10px 30px -5px rgba(0,0,0,.3);transition:box-shadow .5s;will-change:transform;border:8px solid #fff}.card:hover{box-shadow:0 30px 100px -10px rgba(0,0,0,.4)}.nav-element{color:gold;font-weight:600;transition:padding .2s ease}.nav-element:hover{color:gold;padding-left:10px}
+/*# sourceMappingURL=main.97fc37d0.chunk.css.map */

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Card_Game/static/css/main.97fc37d0.chunk.css",
-    "main.js": "/Card_Game/static/js/main.c1256c62.chunk.js",
-    "main.js.map": "/Card_Game/static/js/main.c1256c62.chunk.js.map",
+    "main.js": "/Card_Game/static/js/main.fbfa0a6e.chunk.js",
+    "main.js.map": "/Card_Game/static/js/main.fbfa0a6e.chunk.js.map",
     "runtime-main.js": "/Card_Game/static/js/runtime-main.faed3f06.js",
     "runtime-main.js.map": "/Card_Game/static/js/runtime-main.faed3f06.js.map",
     "static/css/2.2bd37e2f.chunk.css": "/Card_Game/static/css/2.2bd37e2f.chunk.css",
     "static/js/2.edff24e4.chunk.js": "/Card_Game/static/js/2.edff24e4.chunk.js",
     "static/js/2.edff24e4.chunk.js.map": "/Card_Game/static/js/2.edff24e4.chunk.js.map",
     "index.html": "/Card_Game/index.html",
-    "precache-manifest.8075e6dc5db498284377428e9f7ee07f.js": "/Card_Game/precache-manifest.8075e6dc5db498284377428e9f7ee07f.js",
+    "precache-manifest.28c2389a2d5410655fac3a637821213b.js": "/Card_Game/precache-manifest.28c2389a2d5410655fac3a637821213b.js",
     "service-worker.js": "/Card_Game/service-worker.js",
     "static/css/2.2bd37e2f.chunk.css.map": "/Card_Game/static/css/2.2bd37e2f.chunk.css.map",
     "static/css/main.97fc37d0.chunk.css.map": "/Card_Game/static/css/main.97fc37d0.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.2bd37e2f.chunk.css",
     "static/js/2.edff24e4.chunk.js",
     "static/css/main.97fc37d0.chunk.css",
-    "static/js/main.c1256c62.chunk.js"
+    "static/js/main.fbfa0a6e.chunk.js"
   ]
 }
